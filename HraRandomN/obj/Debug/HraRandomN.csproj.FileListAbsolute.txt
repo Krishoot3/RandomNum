@@ -1,0 +1,7 @@
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\bin\Debug\HraRandomN.exe.config
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\bin\Debug\HraRandomN.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\bin\Debug\HraRandomN.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\obj\Debug\HraRandomN.csprojAssemblyReference.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\obj\Debug\HraRandomN.csproj.CoreCompileInputs.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\obj\Debug\HraRandomN.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\HraRandomN\HraRandomN\obj\Debug\HraRandomN.pdb
